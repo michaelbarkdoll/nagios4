@@ -160,6 +160,7 @@ Nagios Login with apache htpasswd.
 ![](2017-06-27-14-35-25.png)
 
 Nagios Admin Dashboard
+
 ![](2017-06-27-14-35-42.png)
 
 ## Adding a Host to Monitor
